@@ -1,0 +1,6 @@
+print("Tutorial para barrer una habitación")
+print("Escoger la escoba correcta dependiendo del tipo de superficie a barrer")
+print("Recoger la basura de mayor tamaño a mano")
+print("Barrer siguiendo un orden, para que no quede ningún sitio sin barrer")
+print("Usar el recogedor para recoger toda la basura")
+print("Botar la basura")
