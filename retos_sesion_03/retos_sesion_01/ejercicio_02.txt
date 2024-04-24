@@ -1,0 +1,17 @@
+print("Pizza 4 quesos
+Supplies
+1 paquete de masa de tarta hojaldrada
+3 dientes de ajo picados
+1 taza de mozzarella rallada
+1/4 taza de roquefort/ queso azul
+1/2 taza de provolone
+1/4 taza de parmesano
+1/2 cdita. de romero picado
+1/2 cdita. de tomillo picado
+Pasos
+Precalentar el horno a 190ª por 15 minutos.
+Picar el ajo, agregar un toque de oliva junto con el tomillo y el romero picado.
+Colocar en una placa previamente aceitada una tapa de tarta sobre la otra, apretar un poco las puntas y pinchar con un tenedor sobre toda su superficie.
+Hornear por 10/15 minutos hasta que la masa dore.
+Retirar, espolvorear con los quesos y agregar el aceite con los ajos y las hierbas.
+Volver al horno hasta que el queso gratine.")
