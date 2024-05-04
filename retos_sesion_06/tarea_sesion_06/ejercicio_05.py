@@ -1,0 +1,1 @@
+# Comparar los números 123 y 890, comprobar si tienen la misma paridad ambos pares o ambos impares
