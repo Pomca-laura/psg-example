@@ -1,0 +1,1 @@
+# Ingresa por teclado dos coordenadas 'x','y' y una ubicación, almacena los 3 valores en una tupla e imprime el resultado
