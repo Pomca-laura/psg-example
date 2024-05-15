@@ -1,0 +1,1 @@
+# Crear una lista con 10 números flotantes
